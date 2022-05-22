@@ -14,4 +14,4 @@ The password is then generated based on the array made by the selected arrays st
 - ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Site Preview
-![](./Assets/site-screenshot.png)
+![](./Assets/03-javascript-homework-demo.png)
