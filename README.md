@@ -15,3 +15,4 @@ The password is then generated based on the array made by the selected arrays st
 
 ## Site Preview
 ![](./Assets/03-javascript-homework-demo.png)
+check out this cool hip poggers password generator at https://flutemonkey.github.io/Password-gen/
